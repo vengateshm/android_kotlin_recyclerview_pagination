@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinRecyclerViewPagination</string>
+    <string name="moviedb_api_key">c3ec029fc8a2f884708f03ef85df57a4</string>
+</resources>
